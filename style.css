@@ -35,7 +35,32 @@ body {
 .Birthday_wish {
     margin: 20px 0;
 }
+
+button {
+    margin-top: 10px;
+}
+
+.text {
+ text-align: justify;
+ padding: 20px;
+ line-height: 1.8;
+}
  
+.text p {
+    text-indent: 50px;
+}
+
+span {
+    background-color: #ffee99;
+}
+.span1 {
+    background-color: #ff7b00;
+    font-weight: bold;
+}
+.down {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
 
 footer {
    margin-bottom: -80px;
@@ -50,6 +75,9 @@ footer hr {
 footer div {
     padding-bottom: 20px;
     text-align: center;
+}
+a {
+    text-decoration: none;
 }
 
 
