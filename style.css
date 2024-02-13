@@ -47,15 +47,15 @@ button {
 }
  
 .text p {
-    text-indent: 50px;
+    text-indent: 50px !important;
 }
 
 span {
-    background-color: #ffee99;
+    background-color: #ffee99 !important;
 }
 .span1 {
-    background-color: #ff7b00;
-    font-weight: bold;
+    background-color: #ff7b00 !important;
+    font-weight: bold !important;
 }
 .down {
     font-family: 'Times New Roman', Times, serif;
